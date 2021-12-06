@@ -42,7 +42,7 @@ Hi, I'm a Product Design Student at Thinkful (Spring '22)
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="python" width="40" height="40"/> </a>
 
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="C" width="40" height="40"/> </a>
 
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="40"/> </a>
 
@@ -75,20 +75,5 @@ Hi, I'm a Product Design Student at Thinkful (Spring '22)
 
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### Stats
-      
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=bmulaw&theme=material-palenight&hide_border=true)](https://git.io/streak-stats" alt="bernard" />
- <br> <br>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=bmulaw&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bernard's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmulaw&hide=jupyter%20notebook&layout=compact&theme=material-palenight&langs_count=8" />
-</p>
 
 
