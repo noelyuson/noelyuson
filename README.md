@@ -16,31 +16,31 @@ Here are some ideas to get you started:
 -->
 
 
-# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm Bernard 🧑🏾‍💻</h2>
+# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm Noel 😎</h2>
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 
-<a href="https://twitter.com/makethevotes" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/bmulaw" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/bernard.tech" target="_blank" rel="noopener noreferrer" ><img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:bmulaw@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
+<a href="https://www.linkedin.com/in/noelyuson" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/noeoel" target="_blank" rel="noopener noreferrer" ><img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ncmyuson@gmail.com" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
  </div>
  <br/>
 
 
-Hi, I'm a computer science major at Boston University (Spring '22)
-- 💻 I interned at Goldman Sachs as a software engineer (Summer '21) 
-- 📚 Currently, I am a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact**
-- 🌱 I’m learning **Java and Django** at this moment.
-- 👀 I’m looking to **begin my software engineering career** as a new grad
-- 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
+Hi, I'm a Product Design Student at Thinkful (Spring '22)
+- 💻 I'm fluent in Figma, Photoshop and Illustrator 
+- 📚 Currently, I am a student at Thinkful working on a couple projects including a Bus app and a Music app
+- 🌱 I’m learning UI/UX principles
+- 👀 I’m looking to **begin my product design career** by April 2022
+- 📫 Feel free to ask anything [here](mailto:ncmyuson@gmail.com)
 
 <div align="center">
  
  <h3 align="left">Languages & Tools:</h3>
 
-<a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="python" width="40" height="40"/> </a>
 
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 
