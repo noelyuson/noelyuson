@@ -42,7 +42,7 @@ Hi, I'm a Product Design Student at Thinkful (Spring '22)
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="python" width="40" height="40"/> </a>
 
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobexd/adobexd-original.svg" alt="C" width="40" height="40"/> </a>
 
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="40"/> </a>
 
